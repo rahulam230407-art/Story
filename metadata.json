@@ -1,0 +1,7 @@
+{
+  "name": "StoryVerse - Personalized Immersion Engine & AI Story Studio",
+  "description": "Cinematic storytelling sanctuary offering personalized narrative immersion, AI Mood Muse curation, interactive voice journeys, and customized story generation from user ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
